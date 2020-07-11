@@ -1,0 +1,9 @@
+add:
+  - ["xiaodantest_1","男","18800000000"]
+  - ["xiaodantest_2","女","18800000001"]
+
+
+
+delete:
+  - "xiaodantest_1"
+  - "xiaodantest_2"
